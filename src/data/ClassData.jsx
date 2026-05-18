@@ -1,3 +1,6 @@
+import { wordCategories } from "./WordData";
+
+
 const universalMcqModule = {
   name: "MCQ Test Arena",
   image: "/modules/default.png",
@@ -11,7 +14,6 @@ const universalMcqModule = {
   },
 };
 
-import { wordCategories } from "./wordData";
 
 const baseClassData = {
   1: [
